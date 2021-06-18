@@ -1,11 +1,13 @@
 {
   "info": [
     {
-      "id": "1",
+      "id": 1,
+      "title":"Terima Kasih",
       "message": "Terima Kasih Atas Supportnya"
     },
     {
-      "id": "2",
+      "id": 2,
+      "title":"Info",
       "message": "Selalu Update Aplikasi Pada Playstore"
     }
   ]
