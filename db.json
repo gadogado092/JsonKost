@@ -2,11 +2,21 @@
   "info": [
     {
       "id": 1,
+      "title":"Fitur Terbaru",
+      "message": "Potongan Harga Kamar Saat Check In atau Perpanjangan Durasi"
+    },
+    {
+      "id": 2,
+      "title":"Reminder",
+      "message": "Selalu Lakukan Simpan Database Seacara Berkala"
+    },
+    {
+      "id": 3,
       "title":"Terima Kasih",
       "message": "Terima Kasih Atas Supportnya"
     },
     {
-      "id": 2,
+      "id": 4,
       "title":"Info Terbaru",
       "message": "Selalu Update Aplikasi Pada Playstore"
     }
