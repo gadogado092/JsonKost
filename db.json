@@ -1,11 +1,6 @@
 {
   "info": [
     {
-      "id": 0,
-      "title":"INFO PENTING",
-      "message": "Keamanan Sistem Operasi Pada Android 11 Menyebabkan Fungsi SIMPAN Database Dan LOAD Database Tidak Berfungsi"
-    },
-    {
       "id": 1,
       "title":"Fitur Terbaru",
       "message": "Hilangkan Iklan\nPotongan Harga Kamar Saat CheckIn atau Perpanjangan Durasi"
