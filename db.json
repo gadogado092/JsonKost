@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title":"INFO PENTING",
-      "message": "Keamanan Sistem Operasi Pada Android 11 Menyebabkan Fungsi SIMPAN Database Dan LOAD Database Tidak Berfungsi"
+      "message": "Load Database Tidak Berfungsi Pada Sistem Operasi R(Versi 11) Karena Alasan Keamanan Dari Playstore"
     },
     {
       "id": 1,
