@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title":"INFO PENTING",
-      "message": "Load Database Tidak Berfungsi Pada Sistem Operasi R(Versi 11) Karena Alasan Keamanan Dari Playstore"
+      "message": "Load Database Dan Simpan Database Tidak Berfungsi Pada Sistem Operasi R(Versi 11) Karena Alasan Keamanan Dari Playstore"
     },
     {
       "id": 1,
