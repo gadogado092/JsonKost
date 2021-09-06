@@ -11,16 +11,6 @@
       "message": "Load Database Dan Simpan Database Tidak Berfungsi Pada Sistem Operasi R(Versi 11) Karena Alasan Keamanan Dari Playstore"
     },
     {
-      "id": 1,
-      "title":"Fitur Terbaru",
-      "message": "Hilangkan Iklan\nPotongan Harga Kamar Saat CheckIn atau Perpanjangan Durasi"
-    },
-    {
-      "id": 2,
-      "title":"Aplikasi Offline/Local Data",
-      "message": "Penyimpanan Data Aplikasi Pada Handphone. Lakukan Simpan Database Secara Berkala Dan Simpan File Dengan Aman"
-    },
-    {
       "id": 3,
       "title":"Terima Kasih",
       "message": "Terima Kasih Telah Berkontribusi Dalam Pengembangan Aplikasi"
