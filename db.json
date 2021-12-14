@@ -2,8 +2,13 @@
   "info": [
     {
       "id": 0,
+      "title":"FITUR KOST ONLINE V.92",
+      "message": "Berikut ini adalah fitur yang terdapat pada versi ONLINE\n1. Support Multiple Kost\n2. Multiple user, yaitu dapat login sebagai pemilik atau pegawai\n3. Pencatatan alur kas dapat dibagi ke berbagai dompet\n4. Metode bayar kost bisa cicil dan lunas\nSilahkan Dicoba"
+    },
+    {
+      "id": 0,
       "title":"PENGELOLAAN KOST ONLINE",
-      "message": "Update Aplikasi Pada Playstore Ke Versi Terbaru (1.0.86) Untuk Menggunakan Fitur Pengelolaan Kost Online yang support login lebih dari 1 perangkat dan juga fitur Posting/Promo/Iklan Kost\nKritik dan Saran Sangat Dibutuhkan\nTerimakasih."
+      "message": "Update Aplikasi Pada Playstore Ke Versi Terbaru (minimal 1.0.86) Untuk Menggunakan Fitur Pengelolaan Kost Online yang support login lebih dari 1 perangkat dan juga fitur Posting/Promo/Iklan Kost\nKritik dan Saran Sangat Dibutuhkan\nTerimakasih."
     },
     {
       "id": 0,
