@@ -2,6 +2,11 @@
   "info": [
     {
       "id": 0,
+      "title":"FITUR TERBARU",
+      "message": "Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan"
+    },
+    {
+      "id": 0,
       "title":"FITUR KOST ONLINE V.92",
       "message": "Berikut ini adalah fitur yang terdapat pada versi ONLINE\n1. Support Multiple Kost\n2. Multiple user, yaitu dapat login sebagai pemilik atau pegawai\n3. Pencatatan alur kas dapat dibagi ke berbagai dompet\n4. Metode bayar kost bisa cicil dan lunas\nSilahkan Dicoba"
     },
@@ -22,6 +27,11 @@
     }
   ],
   "infokontrakan": [
+    {
+      "id": 0,
+      "title":"FITUR TERBARU",
+      "message": "Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan"
+    },
     {
       "id": 0,
       "title":"INFO PENTING",
