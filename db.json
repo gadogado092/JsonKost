@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title":"FITUR TERBARU",
-      "message": "1.Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n2.Fitur Pindah Kamar/Unit"
+      "message": "1. Backup database secara online... lebih mudah saat pindah handphone\n2. Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n3. Fitur Pindah Kamar/Unit"
     },
     {
       "id": 0,
@@ -17,6 +17,11 @@
     },
     {
       "id": 3,
+      "title":"Selamat Berpuasa",
+      "message": "Selamat menunaikan ibadah puasa pada bulan Ramadhan 1443 Hijriah"
+    },
+    {
+      "id": 3,
       "title":"Terima Kasih",
       "message": "Terima Kasih Telah Berkontribusi Dalam Pengembangan Aplikasi"
     }
@@ -25,7 +30,12 @@
     {
       "id": 0,
       "title":"FITUR TERBARU",
-      "message": "1.Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n2.Fitur Pindah Kamar/Unit"
+      "message": "1. Backup database secara online... lebih mudah saat pindah handphone\n2. Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n3. Fitur Pindah Kamar/Unit"
+    },
+    {
+      "id": 3,
+      "title":"Selamat Berpuasa",
+      "message": "Selamat menunaikan ibadah puasa pada bulan Ramadhan 1443 Hijriah"
     },
     {
       "id": 0,
@@ -36,11 +46,6 @@
       "id": 3,
       "title":"Terima Kasih",
       "message": "Terima Kasih Telah Berkontribusi Dalam Pengembangan Aplikasi"
-    },
-    {
-      "id": 4,
-      "title":"Info Terbaru",
-      "message": "Selalu Update Aplikasi Pada Playstore"
     }
   ]
 }
