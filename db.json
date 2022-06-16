@@ -2,6 +2,11 @@
   "info": [
     {
       "id": 0,
+      "title":"Aplikasi Juragan Lapangan",
+      "message": "1. Sistem Booking Lapangan dan Membership, solusi agar jadwal tidak double\n2. Pencatatan Uang Masuk dan Uang Keluar\n3 Multiple Tipe Lapangan, jadwal dan biaya penyewaan.\n\nhttps://play.google.com/store/apps/details?id=amat.juraganlapangan"
+    },
+    {
+      "id": 0,
       "title":"FITUR TERBARU",
       "message": "1. Backup database secara online... lebih mudah saat pindah handphone\n2. Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n3. Fitur Pindah Kamar/Unit"
     },
@@ -17,11 +22,6 @@
     },
     {
       "id": 3,
-      "title":"Selamat Idul Fitri 1443",
-      "message": "Selamat hari raya Idul Fitri 1443"
-    },
-    {
-      "id": 3,
       "title":"Terima Kasih",
       "message": "Terima Kasih Telah Berkontribusi Dalam Pengembangan Aplikasi"
     }
@@ -29,13 +29,13 @@
   "infokontrakan": [
     {
       "id": 0,
-      "title":"FITUR TERBARU",
-      "message": "1. Backup database secara online... lebih mudah saat pindah handphone\n2. Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n3. Fitur Pindah Kamar/Unit"
+      "title":"Aplikasi Juragan Lapangan",
+      "message": "1. Sistem Booking Lapangan dan Membership, solusi agar jadwal tidak double\n2. Pencatatan Uang Masuk dan Uang Keluar\n3 Multiple Tipe Lapangan, jadwal dan biaya penyewaan.\n\nhttps://play.google.com/store/apps/details?id=amat.juraganlapangan"
     },
     {
-      "id": 3,
-      "title":"Selamat Idul Fitri 1443",
-      "message": "Selamat hari raya Idul Fitri 1443"
+      "id": 0,
+      "title":"FITUR TERBARU",
+      "message": "1. Backup database secara online... lebih mudah saat pindah handphone\n2. Support Penggunaan Untuk WhatsApp Bisnis. Lakukan Pengaturan Pada Profil. Pilih Jenis WhatsApp yang digunakan \n3. Fitur Pindah Kamar/Unit"
     },
     {
       "id": 0,
