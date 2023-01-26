@@ -2,6 +2,11 @@
   "info": [
     {
       "id": 0,
+      "title":"Ingin Penghasilan Tambahan?",
+      "message": "Ayo jualan pulsa, data internet, token listrik, top-up, bayar segala jenis tagihan, dan lainnya\nSilahkan Hubungi Customer Service Untuk Info Lebih Lanjut"
+    },
+    {
+      "id": 0,
       "title":"Aplikasi Juragan Lapangan",
       "message": "1. Sistem Booking Lapangan dan Membership, solusi agar jadwal tidak double\n2. Pencatatan Uang Masuk dan Uang Keluar\n3 Multiple Tipe Lapangan, jadwal dan biaya penyewaan.\n\nhttps://play.google.com/store/apps/details?id=amat.juraganlapangan"
     },
@@ -27,6 +32,11 @@
     }
   ],
   "infokontrakan": [
+    {
+      "id": 0,
+      "title":"Ingin Penghasilan Tambahan?",
+      "message": "Ayo jualan pulsa, data internet, token listrik, top-up, bayar segala jenis tagihan, dan lainnya\nSilahkan Hubungi Customer Service Untuk Info Lebih Lanjut"
+    },
     {
       "id": 0,
       "title":"Aplikasi Juragan Lapangan",
