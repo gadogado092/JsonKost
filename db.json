@@ -2,6 +2,11 @@
   "info": [
     {
       "id": 0,
+      "title":"Fitur Restore Online",
+      "message": "Pada Beberapa Device/Perangkat Android Versi 11, 12 dan 13 Fitur Restore Online bermasalah dikarenakan sistem keamanan google yang belum stabil"
+    },
+    {
+      "id": 0,
       "title":"Ingin Penghasilan Tambahan?",
       "message": "Silahkan Gabung jualan pulsa, data internet, token listrik, top-up, bayar segala jenis tagihan, dan lainnya\nHarga sangat murah dan mudah\nSilahkan Hubungi Customer Service Untuk Info Lebih Lanjut"
     },
@@ -32,6 +37,11 @@
     }
   ],
   "infokontrakan": [
+    {
+      "id": 0,
+      "title":"Fitur Restore Online",
+      "message": "Pada Beberapa Device/Perangkat Android Versi 11, 12 dan 13 Fitur Restore Online bermasalah dikarenakan sistem keamanan google yang belum stabil"
+    },
     {
       "id": 0,
       "title":"Ingin Penghasilan Tambahan?",
