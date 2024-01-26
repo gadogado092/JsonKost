@@ -2,11 +2,6 @@
   "info": [
     {
       "id": 0,
-      "title":"Nomor CS Berubah",
-      "message": "0899-8148-622"
-    },
-    {
-      "id": 0,
       "title":"Fitur Restore Online",
       "message": "Pada Beberapa Device/Perangkat Android Versi 11, 12 dan 13 Fitur Restore Online bermasalah dikarenakan sistem keamanan google yang belum stabil"
     },
@@ -42,11 +37,6 @@
     }
   ],
   "infokontrakan": [
-    {
-      "id": 0,
-      "title":"Nomor CS Berubah",
-      "message": "0899-8148-622"
-    },
     {
       "id": 0,
       "title":"Fitur Restore Online",
