@@ -7,6 +7,11 @@
     },
     {
       "id": 0,
+      "title":"Segera Pindah Ke Versi Juragan Kost Versi Online",
+      "message": "Ayo Pakai Aplikasi Versi Online... Fitur Lebih Lengkap"
+    },
+    {
+      "id": 0,
       "title":"Fitur Restore Online",
       "message": "Pada Beberapa Device/Perangkat Android Versi 11, 12 dan 13 Fitur Restore Online bermasalah dikarenakan sistem keamanan google yang belum stabil"
     },
@@ -42,6 +47,16 @@
     }
   ],
   "infokontrakan": [
+    {
+      "id": 0,
+      "title":"Update Aplikasi Versi Online 1.1.57",
+      "message": "Halaman Bukti Pembayaran... Perbaikan Fitur Download Dan Share Untuk Sistem Operasi Versi Tiramisu atau 13 Keatas"
+    },
+    {
+      "id": 0,
+      "title":"Segera Pindah Ke Versi Juragan Kost Versi Online",
+      "message": "Ayo Pakai Aplikasi Versi Online... Fitur Lebih Lengkap"
+    },
     {
       "id": 0,
       "title":"Fitur Restore Online",
