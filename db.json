@@ -2,6 +2,11 @@
   "info": [
     {
       "id": 0,
+      "title":"Aplikasi Buku Keuangan",
+      "message": "Fitur utama catat alur kas keluar dan masuk, perencanaan tabungan, kategori alur kas, multi tabungan dan hutang piutang\nHubungi Cs Info Lebih Lanjut"
+    },
+    {
+      "id": 0,
       "title":"Update Aplikasi Versi 1.1.57",
       "message": "Halaman Bukti Pembayaran... Perbaikan Fitur Download Dan Share Untuk Sistem Operasi Versi Tiramisu atau 13 Keatas"
     },
@@ -47,6 +52,11 @@
     }
   ],
   "infokontrakan": [
+    {
+      "id": 0,
+      "title":"Aplikasi Buku Keuangan",
+      "message": "Fitur utama catat alur kas keluar dan masuk, perencanaan tabungan, kategori alur kas, multi tabungan dan hutang piutang\nHubungi Cs Info Lebih Lanjut"
+    },
     {
       "id": 0,
       "title":"Update Aplikasi Versi Online 1.1.57",
